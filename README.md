@@ -9,6 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elax46" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elax46&layout=compact)
 
-![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46)
+![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46&count_private=true&show_icons=true)
+
