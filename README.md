@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**elax46/elax46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 [custom Brand Icons](https://github.com/elax46/custom-brand-icons) maintainer 
+- 🐨 Just another developer in the world
+- 💻 Computer science student at [@UninaIT](http://www.unina.it/home)
+- 😏 Supporter of [Hugo](https://github.com/gohugoio) and [Home Assistant](https://github.com/home-assistant)
+- ✨ Simple is beautiful
+- 🦥 Write less, do more
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elax46" />
+
+![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46)
