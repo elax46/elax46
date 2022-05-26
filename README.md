@@ -7,7 +7,7 @@
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
 
-<img src="https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg" />
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elax46&layout=compact)
 
