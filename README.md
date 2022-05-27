@@ -8,7 +8,3 @@
 ![snake animation](https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46&count_private=true&show_icons=true&theme=yeblu)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elax46&show_icons=true&theme=yeblu)
-
-
