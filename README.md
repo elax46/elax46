@@ -5,7 +5,7 @@
 - 🐨 Just another developer in the world
 - 😏 Supporter of [Hugo](https://github.com/gohugoio) and [Home Assistant](https://github.com/home-assistant)
 
-![snake animation](https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg#gh-dark-mode-only)!
+![snake animation](https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elax46)
 
