@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuele</h1>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elax46&repo=custom-brand-icons&show_icons=true&theme=yeblu)
-### Hi there 👋
+
 - 💡 [custom Brand Icons](https://github.com/elax46/custom-brand-icons) maintainer 
 - 💻 Computer science student at [@UninaIT](http://www.unina.it/home)
 - 🐨 Just another developer in the world
