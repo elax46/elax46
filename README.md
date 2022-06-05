@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Emanuele</h1>
+
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elax46&repo=custom-brand-icons&show_icons=true&theme=yeblu)
 ### Hi there 👋
 - 💡 [custom Brand Icons](https://github.com/elax46/custom-brand-icons) maintainer 
@@ -7,4 +9,6 @@
 
 ![snake animation](https://raw.githubusercontent.com/elax46/elax46/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46&count_private=true&show_icons=true&theme=yeblu)
+![Emanuele's GitHub stats](https://github-readme-stats.vercel.app/api?username=elax46&&count_private=true&show_icons=true&theme=yeblu)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elax46&&count_private=true&show_icons=true&theme=yeblu" alt="elax46" /></p>
