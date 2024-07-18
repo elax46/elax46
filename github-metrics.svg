@@ -940,7 +940,7 @@ fix #715</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.56091718001367 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1010,7 +1010,7 @@ fix #715</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 160k out of 207m repositories</span>
+                                    <span class="gh">ranked 160k out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">80</div>
                                     </div>
@@ -1095,7 +1095,7 @@ fix #715</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 62.3k out of 207m repositories</span>
+                                    <span class="gh">ranked 62.3k out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">771</div>
                                     </div>
@@ -1138,7 +1138,7 @@ fix #715</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.31m out of 140m users</span>
+                                    <span class="gh">ranked 4.32m out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">15</div>
                                     </div>
@@ -1474,7 +1474,7 @@ fix #715</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2024, 00:31:03  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2024, 12:28:53  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
