@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1. Genera il profilo 3D
       - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -21,19 +20,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./3d-profile-settings.json
 
-      # 2. Aggiorna le statistiche direttamente nel README.md
-      - name: Update contribute stats
-        uses: elax46/github-contrib-stats@master
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
-          filename: README.md
-
-      # 3. Commit e Push automatico di tutte le modifiche
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update readme stats and 3d graph"
+          commit_message: "chore: update 3d contribution profile"
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
-          file_pattern: "README.md profile-3d-contrib/profile-3d.svg"
+          file_pattern: "profile-3d-contrib/profile-3d.svg"
