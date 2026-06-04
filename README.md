@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="500" src="./profile-3d-contrib/profile-3d.svg" />
+  <img height="500" src="./profile-3d-contrib/profile-gitblock.svg" />
 </p>
 
 <p align="center">
