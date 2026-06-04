@@ -2,7 +2,6 @@ name: Update readme
 
 on:
   schedule:
-    # Esegue ogni giorno alle 22:00 UTC (00:00 ora italiana)
     - cron: '0 22 * * *'
   workflow_dispatch:
 
@@ -22,12 +21,13 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: ./3d-profile-settings.json
 
-      # 2. Aggiornamento statistiche contributi
+      # 2. Aggiornamento statistiche (Senza curl o tar)
       - name: Update contribute stats
         uses: elax46/github-contrib-stats@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
+          # Assicurati che questo file esista nel tuo repo
           filename: contribution.md
 
       # 3. Commit e Push automatico
